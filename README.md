@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Detection & Model Comparison (CNN vs MobileNetV2)
 
-An end-to-end deep learning project for classifying brain MRI scans into four distinct categories using the Masoud Nickparvar Brain Tumor MRI Dataset. This project compares the performance of a **Custom Convolutional Neural Network (CNN) built from scratch** against a **Pre-trained MobileNetV2 Transfer Learning model**.
+An end-to-end deep learning project for classifying brain MRI scans into four distinct categories using the Masoud Nickparvar Brain Tumor MRI Dataset. This project compares the performance of a **Custom Convolutional Neural Network (CNN) built from scratch** against a **Pre-trained MobileNetV2 Transfer Learning model**. 
 
 ---
 
