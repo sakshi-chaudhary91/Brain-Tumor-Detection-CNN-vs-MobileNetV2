@@ -9,7 +9,7 @@ The dataset consists of MRI images categorized into **4 classes**:
 1. **Glioma Tumor**
 2. **Meningioma Tumor**
 3. **Pituitary Tumor**
-4. **No Tumor**
+4. **No Tumor** 
 
 * **Image Dimensions:** `150x150x3`
 * **Data Splits:** Training, Validation, and Testing sets powered by Keras Image Data Generators.
