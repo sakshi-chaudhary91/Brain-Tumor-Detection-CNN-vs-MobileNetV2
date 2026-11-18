@@ -20,7 +20,7 @@ The dataset consists of MRI images categorized into **4 classes**:
 
 ### 1. Custom CNN (Scratch)
 * **Architecture:** Sequential model comprising multiple Conv2D layers, Batch Normalization, Max Pooling, Dropout regularization, and Dense classification layers.
-* **Result:** Achieved strong validation accuracy (~93.21%) and an unseen test accuracy of **84.44%**.
+* **Result:** Achieved strong validation accuracy (~93.21%) and an unseen test accuracy of **84.44%**. 
 
 ### 2. Transfer Learning (MobileNetV2)
 * **Architecture:** MobileNetV2 pre-trained on ImageNet with frozen base weights, coupled with a custom classification head (`GlobalAveragePooling2D`, `Dense(512)`, `Dropout(0.5)`, and `Dense(4, softmax)`).
