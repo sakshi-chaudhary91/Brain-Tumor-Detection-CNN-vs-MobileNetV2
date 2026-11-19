@@ -5,7 +5,7 @@ An end-to-end deep learning project for classifying brain MRI scans into four di
 ---
 
 ## 📊 Dataset Overview
-The dataset consists of MRI images categorized into **4 classes**:   
+The dataset consists of MRI images categorized into **4 classes**:    
 1. **Glioma Tumor**
 2. **Meningioma Tumor**
 3. **Pituitary Tumor**
