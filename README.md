@@ -16,7 +16,7 @@ The dataset consists of MRI images categorized into **4 classes**:
 
 ---
 
-## 🏗️ Model Architectures
+## 🏗️ Model Architectures 
 
 ### 1. Custom CNN (Scratch)
 * **Architecture:** Sequential model comprising multiple Conv2D layers, Batch Normalization, Max Pooling, Dropout regularization, and Dense classification layers.
